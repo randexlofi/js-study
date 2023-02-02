@@ -2,6 +2,7 @@
 
 ## Classes
 - Class-1 <a href="https://github.com/randexlofi/js-study/tree/master/class-1"><i>link</i></a></li>
+- Class-2 <a href="https://github.com/randexlofi/js-study/tree/master/class-2"><i>link</i></a></li>
 
 ## Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
