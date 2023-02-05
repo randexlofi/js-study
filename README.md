@@ -1,9 +1,12 @@
 <h3 align="center">Javascript Study Repository</h3>
 
-## Classes
+## Exercises
 - Exercise-1 <a href="https://github.com/randexlofi/js-study/tree/master/exercise-1"><i>link</i></a></li>
 - Exercise-2 <a href="https://github.com/randexlofi/js-study/tree/master/exercise-2"><i>link</i></a></li>
 - Exercise-3 <a href="https://github.com/randexlofi/js-study/tree/master/exercise-3"><i>link</i></a></li>
+
+## Final Recap
+- Recap Website <a href="https://github.com/randexlofi/js-study/tree/master"><i>link</i></a></li>
 
 ## Languages & Tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
