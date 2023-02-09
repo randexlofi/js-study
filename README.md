@@ -6,6 +6,7 @@
 - Exercise-3 <a href="https://github.com/randexlofi/js-study/tree/master/exercise-3"><i>link</i></a></li>
 - Exercise-4 <a href="https://github.com/randexlofi/js-study/tree/master/exercise-4"><i>link</i></a></li>
 - Exercise-5 <a href="https://github.com/randexlofi/js-study/tree/master/exercise-5"><i>link</i></a></li>
+- Exercise-6 <a href="https://github.com/randexlofi/js-study/tree/master/exercise-6"><i>link</i></a></li>
 
 ## Final Recap
 - Recap Website <a href="https://github.com/randexlofi/js-study/tree/master"><i>link</i></a></li>
